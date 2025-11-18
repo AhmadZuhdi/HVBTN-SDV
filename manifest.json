@@ -1,0 +1,11 @@
+﻿{
+  "Name": "[CP] HVBTN OST",
+  "Author": "zMeleeDuck",
+  "Version": "1.0.0",
+  "Description": "Harvestmoon: Back to nature OST for Stardew Valley",
+  "UniqueID": "zMeleeDuck.hvbtnost",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "1.23.0"
+  }
+}

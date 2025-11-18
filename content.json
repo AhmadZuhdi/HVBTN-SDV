@@ -1,0 +1,128 @@
+﻿{
+  "Format": "2.3.0",
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/AudioChanges",
+      "Entries": {
+        "MainTheme": {
+          "Id": "MainTheme",
+          "Category": "Music",
+          "FilePaths": [
+            "{{AbsoluteFilePath: title.ogg}}"
+          ],
+          "StreamedVorbis": true,
+          "Looped": true
+        },
+        "spring1": {
+          "Id": "spring1",
+          "Category": "Music",
+          "FilePaths": [
+            "{{AbsoluteFilePath: spring.ogg}}"
+          ],
+          "StreamedVorbis": true,
+          "Looped": true
+        },
+        "spring2": {
+          "Id": "spring2",
+          "Category": "Music",
+          "FilePaths": [
+            "{{AbsoluteFilePath: spring.ogg}}"
+          ],
+          "StreamedVorbis": true,
+          "Looped": true
+        },
+        "spring3": {
+          "Id": "spring3",
+          "Category": "Music",
+          "FilePaths": [
+            "{{AbsoluteFilePath: spring.ogg}}"
+          ],
+          "StreamedVorbis": true,
+          "Looped": true
+        },
+        "summer1": {
+          "Id": "summer1",
+          "Category": "Music",
+          "FilePaths": [
+            "{{AbsoluteFilePath: summer.ogg}}"
+          ],
+          "StreamedVorbis": true,
+          "Looped": true
+        },
+        "summer2": {
+          "Id": "summer2",
+          "Category": "Music",
+          "FilePaths": [
+            "{{AbsoluteFilePath: summer.ogg}}"
+          ],
+          "StreamedVorbis": true,
+          "Looped": true
+        },
+        "summer3": {
+          "Id": "summer3",
+          "Category": "Music",
+          "FilePaths": [
+            "{{AbsoluteFilePath: summer.ogg}}"
+          ],
+          "StreamedVorbis": true,
+          "Looped": true
+        },
+        "fall1": {
+          "Id": "fall1",
+          "Category": "Music",
+          "FilePaths": [
+            "{{AbsoluteFilePath: fall.ogg}}"
+          ],
+          "StreamedVorbis": true,
+          "Looped": true
+        },
+        "fall2": {
+          "Id": "fall2",
+          "Category": "Music",
+          "FilePaths": [
+            "{{AbsoluteFilePath: fall.ogg}}"
+          ],
+          "StreamedVorbis": true,
+          "Looped": true
+        },
+        "fall3": {
+          "Id": "fall3",
+          "Category": "Music",
+          "FilePaths": [
+            "{{AbsoluteFilePath: fall.ogg}}"
+          ],
+          "StreamedVorbis": true,
+          "Looped": true
+        },
+        "winter1": {
+          "Id": "winter1",
+          "Category": "Music",
+          "FilePaths": [
+            "{{AbsoluteFilePath: winter.ogg}}"
+          ],
+          "StreamedVorbis": true,
+          "Looped": true
+        },
+        "winter2": {
+          "Id": "winter2",
+          "Category": "Music",
+          "FilePaths": [
+            "{{AbsoluteFilePath: winter.ogg}}"
+          ],
+          "StreamedVorbis": true,
+          "Looped": true
+        },
+        "winter3": {
+          "Id": "winter3",
+          "Category": "Music",
+          "FilePaths": [
+            "{{AbsoluteFilePath: winter.ogg}}"
+          ],
+          "StreamedVorbis": true,
+          "Looped": true
+        }
+      }
+    }
+  ]
+}
